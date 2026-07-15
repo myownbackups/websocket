@@ -6,7 +6,7 @@ require (
 	github.com/gobwas/ws v1.4.0
 	github.com/gospider007/gson v0.0.0-20260713095227-03d10a4e9883
 	github.com/gospider007/re v0.0.0-20260227072205-6223d82a3dab
-	github.com/gospider007/tools v0.0.0-20260713095134-a0365783c81c
+	github.com/gospider007/tools v0.0.0-20260715073657-142e5b88d395
 )
 
 require (
